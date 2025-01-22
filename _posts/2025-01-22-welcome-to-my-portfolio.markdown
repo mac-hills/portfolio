@@ -1,10 +1,9 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+title:  "Welcome to my portfolio!"
+date:   2025-01-22 13:12:35 +0100
+categories: jekyll update
 ---
-
-
 # About me
 
 I’m Wannes Machiels, a driven professional currently making a meaningful career transition into the IT sector. With a background in education as an administrative officer and secretary, I bring a unique blend of technical knowledge and strong soft skills to my new journey as a software developer.
@@ -14,4 +13,5 @@ I’m passionate about developing innovative software solutions that have a real
 I believe that technology, when used effectively, has the power to transform communities and improve daily living. Whether it's building a seamless user experience or solving complex problems with code, my focus is on creating solutions that make a difference.
 
 As I continue to expand my knowledge and experience in the tech world, I’m excited to collaborate with like-minded individuals and teams to build products that make a meaningful impact.
+
 

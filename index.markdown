@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: home
 ---
 
 {% raw %}{% include header.html %}{% endraw %}
 
-Your content goes here
+{% raw %}{% include mainpage.html %}{% endraw %}
 
 {% raw %}{% include footer.html %}{% endraw %}
