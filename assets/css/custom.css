@@ -1,0 +1,6 @@
+
+.page-content {
+    background-image: url("/assets/images/bg1.png");
+    background-repeat: repeat-y; /* Repeat the image horizontally */
+    background-size: auto; /* Ensure the 1px image stays at its original size */
+}
