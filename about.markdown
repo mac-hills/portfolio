@@ -1,11 +1,8 @@
 ---
-layout: page
-title: About
+layout: default
+title: About me
 permalink: /about/
 ---
-
-
-# About me
 
 I’m Wannes Machiels, a driven professional currently making a meaningful career transition into the IT sector. With a background in education as an administrative officer and secretary, I bring a unique blend of technical knowledge and strong soft skills to my new journey as a software developer.
 
