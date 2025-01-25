@@ -11,11 +11,12 @@ Each circle on the clock represents a number in the Fibonacci sequence, with col
 When you click on the clock, you’ll get more details about how it works, and you can even customize the colors to your liking.
 Feel free to check it out and let me know what you think!
 
-<div style="width: 100%; height: 500px; border: 1px solid #ccc;">
+<div id="iframe-clock" style="width: 100%; height: 500px; border: 1px solid #ccc;">
   <iframe 
     src="https://mac-hills.github.io/fibonacci-clock/" 
     style="width: 100%; height: 100%; border: none;" 
-    title="Embedded fibonacci clock">
+    title="Embedded fibonacci clock"
+   >
   </iframe>
 </div>
 
