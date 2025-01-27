@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Abou the portfolio"
-date:   2025-01-23 13:12:35 +0100
+title: About the portfolio
+date: '2025-01-23 13:12:35 +0100'
 categories: jekyll update
 ---
 
