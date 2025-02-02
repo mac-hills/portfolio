@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7418c91-d79a-408c-86a7-8c4dd1ab8fcc" name="Changes" comment="Updated layout">
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/jekyll/update/2025/01/22/my-fibonacci-clock-project.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/jekyll/update/2025/01/22/welcome-to-my-portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/jekyll/update/2025/01/22/welcome-to-my-portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/_site/readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JohannesMachielsPXL&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mac-hills/portfolio.git&quot;,
+    &quot;accountId&quot;: &quot;aafd31fb-776e-4081-aad0-34023b7637fb&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2rz3ol6h9J0qdxEXxbES01ihVmg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.portfolio.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/apps/portfolio",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\apps\portfolio" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="portfolio" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://127.0.0.1:4000/portfolio//">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.portfolio" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7418c91-d79a-408c-86a7-8c4dd1ab8fcc" name="Changes" comment="" />
+      <created>1737548254884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737548254884</updated>
+      <workItem from="1737548256859" duration="9000" />
+      <workItem from="1737548294774" duration="12023000" />
+      <workItem from="1737623115069" duration="609000" />
+      <workItem from="1737807351634" duration="5759000" />
+      <workItem from="1737816989000" duration="1058000" />
+      <workItem from="1737818256354" duration="4211000" />
+      <workItem from="1737881733814" duration="512000" />
+      <workItem from="1737970756530" duration="7353000" />
+      <workItem from="1737996401463" duration="3000" />
+      <workItem from="1738052887708" duration="635000" />
+      <workItem from="1738505498086" duration="958000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initialise">
+      <option name="closed" value="true" />
+      <created>1737548729947</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737548729947</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update _config.yaml">
+      <option name="closed" value="true" />
+      <created>1737549459885</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737549459885</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update _config.yaml&#10;Added personal info">
+      <option name="closed" value="true" />
+      <created>1737549606523</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737549606523</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update _config.yaml&#10;Added personal info">
+      <option name="closed" value="true" />
+      <created>1737549922197</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737549922197</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update index.markdown&#10;Added header and footer">
+      <option name="closed" value="true" />
+      <created>1737550732951</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737550732951</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding content">
+      <option name="closed" value="true" />
+      <created>1737553339394</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737553339394</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated url's in footer">
+      <option name="closed" value="true" />
+      <created>1737553734481</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737553734481</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated url's in footer">
+      <option name="closed" value="true" />
+      <created>1737555088457</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737555088457</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated url's in header">
+      <option name="closed" value="true" />
+      <created>1737555275943</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737555275943</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updated title">
+      <option name="closed" value="true" />
+      <created>1737555443539</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737555443539</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updated about and welcome">
+      <option name="closed" value="true" />
+      <created>1737555865273</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737555865273</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Updated about and welcome">
+      <option name="closed" value="true" />
+      <created>1737559840310</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1737559840310</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Updated layout">
+      <option name="closed" value="true" />
+      <created>1737562275864</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1737562275864</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Updated layout">
+      <option name="closed" value="true" />
+      <created>1737822505140</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1737822505140</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initialise" />
+    <MESSAGE value="Update _config.yaml" />
+    <MESSAGE value="Update _config.yaml&#10;Added personal info" />
+    <MESSAGE value="Update index.markdown&#10;Added header and footer" />
+    <MESSAGE value="Adding content" />
+    <MESSAGE value="Updated url's in footer" />
+    <MESSAGE value="Updated url's in header" />
+    <MESSAGE value="Updated title" />
+    <MESSAGE value="Updated about and welcome" />
+    <MESSAGE value="Updated layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated layout" />
+  </component>
+</project>
