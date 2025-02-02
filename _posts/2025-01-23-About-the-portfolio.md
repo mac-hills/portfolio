@@ -1,3 +1,10 @@
+---
+layout: post
+title: About the portfolio
+date: '2025-01-23 13:12:35 +0100'
+categories: jekyll update
+---
+
 ## Building a Cost-Free, Automated Portfolio Website with GitHub Pages, Jekyll, and Prose.io
 
 When I set out to create my portfolio website, I wanted to demonstrate how to build and maintain a fully functional, hosted website without incurring any costs. My goal was to create a proof of concept that showcases how free tools and services can be combined to automate content deployment and hosting. Here's how I did it, and the technologies that made it possible.
