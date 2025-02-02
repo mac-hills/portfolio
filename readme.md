@@ -75,3 +75,6 @@ Static site built with Jekyll and deployed to GitHub Pages.
 ---
 
 **Note**: Never manually modify files in the `_site` directory - they get regenerated on build.
+
+Tested on Jekyll v4.2.0
+```
