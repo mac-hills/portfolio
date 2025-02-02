@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fibonacci-clock project"
-date:   2025-01-22 16:05:35 +0100
+date:   2025-01-24 16:05:35 +0100
 categories: jekyll update
 ---
 Below, you’ll find the Fibonacci Clock project I created. This clock presents time using the Fibonacci sequence, offering a unique and visually captivating way to keep track of the hours, minutes, and seconds.
