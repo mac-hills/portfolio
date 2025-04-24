@@ -8,7 +8,7 @@ categories: certifications cloud-computing professional-development
 published: true
 ---
 
-![certificate.png]({{site.baseurl}}/_posts/certificate.png)
+![certificate.png]({{site.baseurl}}/assets/images/certificate.png)
 
 
 ## Achieving Microsoft Azure Fundamentals
