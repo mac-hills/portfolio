@@ -13,7 +13,7 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #222222 !important;
+  color: #b5e853 !important;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -28,6 +28,13 @@ body {
 
 p {
   color: #222333 !important;
+}
+a {
+  color: #63c0f5;
+}
+
+.wrapper {
+  background: rgba(0, 0, 0, 0.8) !important; /* Override your white background with something darker */
 }
 
 /**
@@ -129,7 +136,7 @@ blockquote > :last-child {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #e8e8e8;
+  border: 1px solid #a0a0a0;
   border-radius: 3px;
   background-color: #eef;
 }
