@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "My Journey to Microsoft Azure Fundamentals Certification: Opening Doors to Cloud Computing"
-date: 2025-04-24
+title: >-
+  My Journey to Microsoft Azure Fundamentals Certification: Opening Doors to
+  Cloud Computing
+date: {}
 categories: certifications cloud-computing professional-development
 published: true
 ---
 
-![Azure-certificate.png]({{site.baseurl}}/_posts/Azure-certificate.png)
+![certificate.png]({{site.baseurl}}/_posts/certificate.png)
 
 
 ## Achieving Microsoft Azure Fundamentals
@@ -70,4 +72,3 @@ Have you pursued cloud certifications? I'd love to hear about your experiences!
 ---
 
 *This post documents my personal certification journey. Microsoft Azure and related trademarks belong to Microsoft Corporation.*
-
