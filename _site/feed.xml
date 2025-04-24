@@ -1,4 +1,84 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="hhtps://mac-hills.github.io/portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="hhtps://mac-hills.github.io/portfolio/" rel="alternate" type="text/html" /><updated>2025-01-25T17:25:05+01:00</updated><id>hhtps://mac-hills.github.io/portfolio/feed.xml</id><title type="html">Bringing Ideas to Life Through Code</title><subtitle>Welcome to my personal portfolio! Here, you can explore more about my work, projects, and the skills I’ve developed as a web developer. Whether you&apos;re looking for collaboration, inspiration, or just curious about what I do, I&apos;m glad you visited my site!</subtitle><entry><title type="html">Fibonacci-clock project</title><link href="hhtps://mac-hills.github.io/portfolio/jekyll/update/2025/01/22/my-fibonacci-clock-project.html" rel="alternate" type="text/html" title="Fibonacci-clock project" /><published>2025-01-22T16:05:35+01:00</published><updated>2025-01-22T16:05:35+01:00</updated><id>hhtps://mac-hills.github.io/portfolio/jekyll/update/2025/01/22/my-fibonacci-clock-project</id><content type="html" xml:base="hhtps://mac-hills.github.io/portfolio/jekyll/update/2025/01/22/my-fibonacci-clock-project.html"><![CDATA[<p>Below, you’ll find the Fibonacci Clock project I created. This clock presents time using the Fibonacci sequence, offering a unique and visually captivating way to keep track of the hours, minutes, and seconds.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/portfolio/" rel="alternate" type="text/html" /><updated>2025-04-24T20:39:56+02:00</updated><id>http://localhost:4000/portfolio/feed.xml</id><title type="html">Bringing Ideas to Life Through Code</title><subtitle>Welcome to my personal portfolio! Here, you can explore more about my work, projects, and the skills I’ve developed as a web developer. Whether you&apos;re looking for collaboration, inspiration, or just curious about what I do, I&apos;m glad you visited my site!</subtitle><entry><title type="html">My Journey to Microsoft Azure Fundamentals Certification: Opening Doors to Cloud Computing</title><link href="http://localhost:4000/portfolio/certifications/cloud-computing/professional-development/2025/04/24/certification.html" rel="alternate" type="text/html" title="My Journey to Microsoft Azure Fundamentals Certification: Opening Doors to Cloud Computing" /><published>2025-04-24T14:12:35+02:00</published><updated>2025-04-24T14:12:35+02:00</updated><id>http://localhost:4000/portfolio/certifications/cloud-computing/professional-development/2025/04/24/certification</id><content type="html" xml:base="http://localhost:4000/portfolio/certifications/cloud-computing/professional-development/2025/04/24/certification.html"><![CDATA[<p><img src="/portfolio/assets/images/certificate.png" alt="certificate.png" /></p>
+
+<h2 id="achieving-microsoft-azure-fundamentals">Achieving Microsoft Azure Fundamentals</h2>
+
+<p>I’m excited to share that I’ve successfully earned my <strong>Microsoft Azure Fundamentals</strong> certification! This milestone represents my first step into the world of cloud computing with Microsoft Azure, validating my understanding of core cloud concepts and Azure services.</p>
+
+<h2 id="what-this-certification-covers">What This Certification Covers</h2>
+
+<p>The Microsoft Azure Fundamentals certification demonstrates foundational knowledge of cloud concepts and Microsoft Azure services. As a certified professional, I can now:</p>
+
+<ul>
+  <li><strong>Describe cloud concepts</strong> including the benefits of cloud computing, service models, and shared responsibility models</li>
+  <li><strong>Explain Azure architecture components</strong> and the core services they provide</li>
+  <li><strong>Detail key Azure services</strong> across:
+    <ul>
+      <li>Compute (VMs, App Services, Containers)</li>
+      <li>Networking (VNets, Load Balancers, VPN Gateway)</li>
+      <li>Storage (Blob, File, Queue Storage)</li>
+    </ul>
+  </li>
+  <li><strong>Articulate security features</strong> and management tools available in Azure</li>
+</ul>
+
+<h2 id="my-learning-journey">My Learning Journey</h2>
+
+<p>Preparing for this certification involved completing several learning paths through Microsoft Learn, including:</p>
+
+<ol>
+  <li><strong>Microsoft Azure Fundamentals: Describing Cloud Concepts</strong>
+    <ul>
+      <li>Understanding what cloud computing is and why it matters</li>
+      <li>Different service and deployment models</li>
+      <li>Pricing and TCO considerations</li>
+    </ul>
+  </li>
+  <li><strong>Microsoft Azure Fundamentals: Describing Azure Architecture and Services</strong>
+    <ul>
+      <li>Core architectural components of Azure</li>
+      <li>Key products and solutions</li>
+      <li>Management tools and governance features</li>
+    </ul>
+  </li>
+  <li><strong>Microsoft Azure Fundamentals: Describing Azure Management and Governance</strong>
+    <ul>
+      <li>Cost management tools</li>
+      <li>Compliance features</li>
+      <li>Identity and access management</li>
+    </ul>
+  </li>
+</ol>
+
+<p>The exam consisted of multiple-choice questions testing these concepts within a 45-minute timeframe.</p>
+
+<h2 id="benefits-of-azure-certification">Benefits of Azure Certification</h2>
+
+<p>Earning this certification has provided me with:</p>
+
+<ul>
+  <li><strong>Validated knowledge</strong> of fundamental cloud concepts</li>
+  <li>A <strong>solid foundation</strong> for further Azure certifications</li>
+  <li><strong>Enhanced credibility</strong> when discussing cloud migration and implementation strategies</li>
+</ul>
+
+<h2 id="whats-next">What’s Next?</h2>
+
+<p>With this fundamental certification complete, I’m considering the following paths forward:</p>
+
+<ul>
+  <li>Applying my knowledge to real-world projects utilizing Azure services</li>
+  <li>Continuing to expand my cloud computing skills through hands-on labs and practice</li>
+</ul>
+
+<h2 id="final-thoughts">Final Thoughts</h2>
+
+<p>The journey to Microsoft Azure certification has been valuable not just for the credential itself, but for the structured learning path it provided into cloud computing concepts and Azure’s ecosystem. As more organizations move to the cloud, I’m excited to apply these skills and continue building my cloud expertise.</p>
+
+<p>Have you pursued cloud certifications? I’d love to hear about your experiences!</p>
+
+<hr />
+
+<p><em>This post documents my personal certification journey. Microsoft Azure and related trademarks belong to Microsoft Corporation.</em></p>]]></content><author><name></name></author><category term="certifications" /><category term="cloud-computing" /><category term="professional-development" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Fibonacci-clock project</title><link href="http://localhost:4000/portfolio/jekyll/update/2025/01/24/my-fibonacci-clock-project.html" rel="alternate" type="text/html" title="Fibonacci-clock project" /><published>2025-01-24T16:05:35+01:00</published><updated>2025-01-24T16:05:35+01:00</updated><id>http://localhost:4000/portfolio/jekyll/update/2025/01/24/my-fibonacci-clock-project</id><content type="html" xml:base="http://localhost:4000/portfolio/jekyll/update/2025/01/24/my-fibonacci-clock-project.html"><![CDATA[<p>Below, you’ll find the Fibonacci Clock project I created. This clock presents time using the Fibonacci sequence, offering a unique and visually captivating way to keep track of the hours, minutes, and seconds.</p>
 
 <p>Each circle on the clock represents a number in the Fibonacci sequence, with colors distinguishing between the hours, minutes, and seconds. It’s a playful yet functional design that I had a lot of fun building!</p>
 
@@ -17,7 +97,134 @@ Feel free to check it out and let me know what you think!</p>
 
 <p>Once completed, I deployed the project to GitHub Pages, a free hosting service that allows me to share the clock with others easily. GitHub Pages serves the project directly from my GitHub repository, making it a simple and efficient way to host static websites.</p>
 
-<p>Feel free to explore the source code on my GitHub repository to see how it all comes together!</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Below, you’ll find the Fibonacci Clock project I created. This clock presents time using the Fibonacci sequence, offering a unique and visually captivating way to keep track of the hours, minutes, and seconds.]]></summary></entry><entry><title type="html">Welcome to my portfolio!</title><link href="hhtps://mac-hills.github.io/portfolio/jekyll/update/2025/01/22/welcome-to-my-portfolio.html" rel="alternate" type="text/html" title="Welcome to my portfolio!" /><published>2025-01-22T13:12:35+01:00</published><updated>2025-01-22T13:12:35+01:00</updated><id>hhtps://mac-hills.github.io/portfolio/jekyll/update/2025/01/22/welcome-to-my-portfolio</id><content type="html" xml:base="hhtps://mac-hills.github.io/portfolio/jekyll/update/2025/01/22/welcome-to-my-portfolio.html"><![CDATA[<p>Hello and welcome to my personal portfolio! I’m thrilled that you’ve decided to stop by and explore the work I’ve been passionate about. This portfolio is not just a showcase of my projects and skills but also a reflection of my journey into the world of IT and software development.</p>
+<p>Feel free to explore the source code on my GitHub repository to see how it all comes together!</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Below, you’ll find the Fibonacci Clock project I created. This clock presents time using the Fibonacci sequence, offering a unique and visually captivating way to keep track of the hours, minutes, and seconds.]]></summary></entry><entry><title type="html">About the portfolio</title><link href="http://localhost:4000/portfolio/jekyll/update/2025/01/23/About-the-portfolio.html" rel="alternate" type="text/html" title="About the portfolio" /><published>2025-01-23T13:12:35+01:00</published><updated>2025-01-23T13:12:35+01:00</updated><id>http://localhost:4000/portfolio/jekyll/update/2025/01/23/About-the-portfolio</id><content type="html" xml:base="http://localhost:4000/portfolio/jekyll/update/2025/01/23/About-the-portfolio.html"><![CDATA[<h2 id="building-a-cost-free-automated-portfolio-website-with-github-pages-jekyll-and-proseio">Building a Cost-Free, Automated Portfolio Website with GitHub Pages, Jekyll, and Prose.io</h2>
+
+<p>When I set out to create my portfolio website, I wanted to demonstrate how to build and maintain a fully functional, hosted website without incurring any costs. My goal was to create a proof of concept that showcases how free tools and services can be combined to automate content deployment and hosting. Here’s how I did it, and the technologies that made it possible.</p>
+
+<hr />
+
+<h2 id="the-intent-a-cost-free-automated-solution">The Intent: A Cost-Free, Automated Solution</h2>
+<p>The primary goal of this project was to create a portfolio website that:</p>
+
+<ol>
+  <li>Hosts content for free: No paid hosting services or domain fees.</li>
+  <li>Supports automated deployment: No manual build or deployment steps.</li>
+  <li>Allows easy content creation: A user-friendly interface for adding and editing content without touching code.</li>
+</ol>
+
+<p>To achieve this, I leveraged the following technologies:</p>
+
+<ul>
+  <li>GitHub: For version control and repository management.</li>
+  <li>GitHub Pages: For free static website hosting.</li>
+  <li>Jekyll: For static site generation and local development.</li>
+  <li>Prose.io: For content creation and management.</li>
+</ul>
+
+<p>Let’s break down each technology and how they work together.</p>
+
+<hr />
+
+<h2 id="technologies">Technologies</h2>
+
+<h3 id="1-github">1. GitHub</h3>
+
+<p>GitHub is a platform for version control and collaboration. It allows developers to store and manage their code in repositories. For this project, GitHub serves as the backbone:</p>
+
+<ul>
+  <li>Repository: My portfolio website’s code and content are stored in a GitHub repository.</li>
+  <li>Version Control: Changes to the website are tracked using Git, making it easy to revert to previous versions if needed.</li>
+  <li>Collaboration: GitHub allows multiple contributors to work on the same project.</li>
+</ul>
+
+<h3 id="2-github-pages">2. GitHub Pages</h3>
+
+<p>GitHub Pages is a free service provided by GitHub that allows you to host static websites directly from a repository. Key features include:</p>
+
+<ul>
+  <li>Free Hosting: GitHub Pages hosts your website for free, with a default domain (e.g., username.github.io).</li>
+  <li>Automatic Deployment: When you push changes to your repository, GitHub Pages automatically rebuilds and deploys your site.</li>
+  <li>Custom Domains: You can use a custom domain if desired (though this is optional and not necessary for this proof of concept).</li>
+</ul>
+
+<h3 id="3-jekyll">3. Jekyll</h3>
+
+<p>Jekyll is a static site generator that transforms plain text (written in Markdown or HTML) into a fully functional website. It’s particularly well-suited for GitHub Pages because:</p>
+
+<ul>
+  <li>Local Development: Jekyll allows you to build and preview your site locally before deploying it.</li>
+  <li>Markdown Support: Content can be written in Markdown, a lightweight markup language that’s easy to learn and use.</li>
+  <li>Themes and Plugins: Jekyll supports themes and plugins, making it easy to customize your site’s design and functionality.</li>
+  <li>Integration with GitHub Pages: GitHub Pages natively supports Jekyll, so you don’t need to manually build your site before deploying it.</li>
+</ul>
+
+<h3 id="4-proseio">4. Prose.io</h3>
+
+<p>Prose.io is a web-based content editor designed for static websites, particularly those built with Jekyll. It provides a user-friendly interface for creating and editing content without needing to touch the command line or code. Key features include:</p>
+
+<ul>
+  <li>Markdown Editor: A live Markdown editor with a preview pane.</li>
+  <li>Front Matter Support: Easily edit Jekyll’s front matter (metadata for posts and pages).</li>
+  <li>GitHub Integration: Prose.io connects directly to your GitHub repository, allowing you to create, edit, and publish content with a few clicks.</li>
+</ul>
+
+<hr />
+
+<h2 id="how-they-work-together">How They Work Together</h2>
+
+<p>Here’s how these technologies come together to create a seamless, cost-free workflow:</p>
+
+<h3 id="1-local-development-with-jekyll">1. Local Development with Jekyll:</h3>
+
+<ul>
+  <li>I use Jekyll to build and preview my website locally. This allows me to test changes before deploying them.</li>
+  <li>Jekyll’s Markdown support makes it easy to write blog posts and pages.</li>
+</ul>
+
+<h3 id="2-content-creation-with-proseio">2. Content Creation with Prose.io:</h3>
+
+<ul>
+  <li>When I want to add a new blog post or page, I use Prose.io. It provides a simple interface for writing Markdown and editing front matter.</li>
+  <li>Prose.io saves the changes directly to my GitHub repository.</li>
+</ul>
+
+<h3 id="3-version-control-with-github">3. Version Control with GitHub:</h3>
+
+<ul>
+  <li>All changes made through Prose.io or local development are tracked in my GitHub repository.</li>
+  <li>GitHub’s version control ensures that I can always revert to a previous version if something goes wrong.</li>
+</ul>
+
+<h3 id="4-automatic-deployment-with-github-pages">4. Automatic Deployment with GitHub Pages:</h3>
+
+<ul>
+  <li>Whenever I push changes to my repository (either through Prose.io or local development), GitHub Pages automatically rebuilds and deploys my site.</li>
+  <li>This eliminates the need for manual build or deployment commands.</li>
+</ul>
+
+<hr />
+
+<h2 id="the-proof-of-concept">The Proof of Concept</h2>
+
+<p>This portfolio website serves as a proof of concept for a cost-free, automated content deployment workflow. By combining GitHub, GitHub Pages, Jekyll, and Prose.io, I’ve demonstrated that it’s possible to:</p>
+
+<ul>
+  <li>Host a website for free.</li>
+  <li>Automate the deployment process.</li>
+  <li>Simplify content creation with a user-friendly interface.</li>
+</ul>
+
+<p>This approach is ideal for developers, writers, and anyone looking to create a personal website or blog without incurring costs or dealing with complex infrastructure.</p>
+
+<hr />
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Building this portfolio website has been a rewarding experience, and it’s shown me the power of combining free, open-source tools to create a robust and efficient workflow. Whether you’re a developer looking to showcase your work or a writer wanting to share your thoughts, this proof of concept demonstrates that you don’t need a big budget to create a professional, hosted website.</p>
+
+<p>If you’re interested in learning more about how I built this site or want to try it yourself, feel free to explore the GitHub repository or reach out to me directly!</p>
+
+<p><em>post created with prose.io</em></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Building a Cost-Free, Automated Portfolio Website with GitHub Pages, Jekyll, and Prose.io]]></summary></entry><entry><title type="html">Welcome to my portfolio!</title><link href="http://localhost:4000/portfolio/jekyll/update/2025/01/22/welcome-to-my-portfolio.html" rel="alternate" type="text/html" title="Welcome to my portfolio!" /><published>2025-01-22T13:12:35+01:00</published><updated>2025-01-22T13:12:35+01:00</updated><id>http://localhost:4000/portfolio/jekyll/update/2025/01/22/welcome-to-my-portfolio</id><content type="html" xml:base="http://localhost:4000/portfolio/jekyll/update/2025/01/22/welcome-to-my-portfolio.html"><![CDATA[<p>Hello and welcome to my personal portfolio! I’m thrilled that you’ve decided to stop by and explore the work I’ve been passionate about. This portfolio is not just a showcase of my projects and skills but also a reflection of my journey into the world of IT and software development.</p>
 
 <p>As someone transitioning from a career in education administration to the dynamic field of software development, I’ve discovered the joy of creating solutions that make life easier and more efficient. Every project I work on is an opportunity to learn something new, solve a problem, and challenge myself to grow.</p>
 
