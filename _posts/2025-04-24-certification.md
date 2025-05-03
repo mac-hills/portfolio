@@ -1,8 +1,7 @@
 ---
 layout: post
 title: >-
-  My Journey to Microsoft Azure Fundamentals Certification: Opening Doors to
-  Cloud Computing
+  My Journey to Microsoft Azure Fundamentals Certification
 date: 2025-04-23 19:51:05 +0100
 categories: certifications cloud-computing professional-development
 published: true
