@@ -85,5 +85,4 @@ Because sometimes, all you need is "yes"!
 
 Github - [Yes-as-a-service](https://github.com/mac-hills/yes-as-a-service) 
 
-**Powered by !NO**
-
+**Just say [YES](https://github.com/mac-hills/yes-as-a-service) — powered by !NO**
