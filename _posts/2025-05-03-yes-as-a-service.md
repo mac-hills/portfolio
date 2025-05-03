@@ -1,4 +1,11 @@
-
+---
+layout: post
+title: >-
+  Yes-as-a-Service
+date: 2025-05-03 19:51:05 +0100
+categories: Yes-as-a-Service
+published: true
+---
 # Yes-as-a-Service - Because Sometimes You Just Need A Yes!
 
 In the ever-expanding universe of "...-as-a-Service" offerings, I'm proud to announce what might be the most straightforward yet philosophically profound addition: **[Yes-as-a-Service](https://github.com/mac-hills/yes-as-a-service)** (YaaS).
