@@ -1,4 +1,99 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/portfolio/" rel="alternate" type="text/html" /><updated>2025-04-24T20:41:03+02:00</updated><id>http://localhost:4000/portfolio/feed.xml</id><title type="html">Bringing Ideas to Life Through Code</title><subtitle>Welcome to my personal portfolio! Here, you can explore more about my work, projects, and the skills I’ve developed as a web developer. Whether you&apos;re looking for collaboration, inspiration, or just curious about what I do, I&apos;m glad you visited my site!</subtitle><entry><title type="html">My Journey to Microsoft Azure Fundamentals Certification: Opening Doors to Cloud Computing</title><link href="http://localhost:4000/portfolio/certifications/cloud-computing/professional-development/2025/04/23/certification.html" rel="alternate" type="text/html" title="My Journey to Microsoft Azure Fundamentals Certification: Opening Doors to Cloud Computing" /><published>2025-04-23T20:51:05+02:00</published><updated>2025-04-23T20:51:05+02:00</updated><id>http://localhost:4000/portfolio/certifications/cloud-computing/professional-development/2025/04/23/certification</id><content type="html" xml:base="http://localhost:4000/portfolio/certifications/cloud-computing/professional-development/2025/04/23/certification.html"><![CDATA[<p><img src="/portfolio/assets/images/certificate.png" alt="certificate.png" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/portfolio/" rel="alternate" type="text/html" /><updated>2025-05-03T13:45:16+02:00</updated><id>http://localhost:4000/portfolio/feed.xml</id><title type="html">Bringing Ideas to Life Through Code</title><subtitle>Welcome to my personal portfolio! Here, you can explore more about my work, projects, and the skills I’ve developed as a web developer. Whether you&apos;re looking for collaboration, inspiration, or just curious about what I do, I&apos;m glad you visited my site!</subtitle><entry><title type="html">Yes As A Service</title><link href="http://localhost:4000/portfolio/2025/05/03/yes-as-a-service.html" rel="alternate" type="text/html" title="Yes As A Service" /><published>2025-05-03T00:00:00+02:00</published><updated>2025-05-03T00:00:00+02:00</updated><id>http://localhost:4000/portfolio/2025/05/03/yes-as-a-service</id><content type="html" xml:base="http://localhost:4000/portfolio/2025/05/03/yes-as-a-service.html"><![CDATA[<h1 id="yes-as-a-service---because-sometimes-you-just-need-a-yes">Yes-as-a-Service - Because Sometimes You Just Need A Yes!</h1>
+
+<p>In the ever-expanding universe of “…-as-a-Service” offerings, I’m proud to announce what might be the most straightforward yet philosophically profound addition: <strong><a href="https://github.com/mac-hills/yes-as-a-service">Yes-as-a-Service</a></strong> (YaaS).</p>
+
+<hr />
+
+<h2 id="the-origin-story">The Origin Story</h2>
+
+<p>It all started when I encountered “No-as-a-Service” – an elegant solution providing programmatic negativity. While saying “no” is indeed powerful and necessary, I couldn’t help but wonder: what about those times when we need affirmation? What about the power of “yes”?</p>
+
+<p>And thus, <strong><a href="https://github.com/mac-hills/yes-as-a-service">Yes-as-a-Service</a></strong> was born.</p>
+
+<hr />
+
+<h2 id="what-is-yes-as-a-service">What Is Yes-as-a-Service?</h2>
+
+<p>At its core, <strong>YaaS</strong> is beautifully simple: it’s a service that returns “yes”. That’s it. No complicated algorithms, no machine learning, no blockchain – just pure, unadulterated affirmation delivered via HTTP.</p>
+
+<p>Our flagship <strong><a href="https://curl.se/download.html">cURL</a></strong> endpoints:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">YES</code>: curl https://mac-hills.github.io/yes-as-a-service/yes</li>
+  <li><code class="language-plaintext highlighter-rouge">Yes</code>: curl https://mac-hills.github.io/yes-as-a-service/notnotyes</li>
+  <li><code class="language-plaintext highlighter-rouge">yes</code>: curl https://mac-hills.github.io/yes-as-a-service/!no</li>
+</ul>
+
+<p>When you need <code class="language-plaintext highlighter-rouge">Yes</code> to be <code class="language-plaintext highlighter-rouge">true</code> we provide a <a href="https://mac-hills.github.io/yes-as-a-service/yes.json">JSON endpoint</a> for you &gt; <em>returns { “yes”: true }</em></p>
+
+<hr />
+
+<h2 id="the-philosophy-of-yes">The Philosophy of Yes</h2>
+
+<p>In a tech landscape obsessed with complexity, there’s something refreshing about simplicity. But YaaS isn’t just about technical minimalism – it’s about something deeper.</p>
+
+<p>Saying “yes” opens doors. It creates possibilities. It affirms potential. While “no” sets boundaries (which is valuable!), “yes” expands horizons.</p>
+
+<p>Consider these scenarios:</p>
+
+<ul>
+  <li>“Can this legacy system be modernized?” <strong><a href="https://github.com/mac-hills/yes-as-a-service">YES</a></strong>.</li>
+  <li>“Is there a way to make this code more efficient?” <strong><a href="https://github.com/mac-hills/yes-as-a-service">YES</a></strong>.</li>
+  <li>“Should we try a different approach?” <strong><a href="https://github.com/mac-hills/yes-as-a-service">YES</a></strong>.</li>
+  <li>“Can junior developers contribute meaningfully to complex projects?” <strong><a href="https://github.com/mac-hills/yes-as-a-service">YES</a></strong>.</li>
+</ul>
+
+<p>Sometimes, just having that initial affirmation is enough to spark innovation, encourage exploration, and build confidence.</p>
+
+<hr />
+
+<h2 id="technical-implementation">Technical Implementation</h2>
+
+<p>Despite its philosophical depth, <strong><a href="https://github.com/mac-hills/yes-as-a-service">Yes-as-a-Service</a></strong> is technically straightforward. It’s a set of static files hosted on GitHub Pages, making it:</p>
+
+<ul>
+  <li>Infinitely scalable (or as scalable as GitHub’s infrastructure)</li>
+  <li>Consistently reliable</li>
+  <li>Blisteringly fast</li>
+  <li>Completely free</li>
+</ul>
+
+<h3 id="how-to-use-yaas">How to Use YaaS</h3>
+
+<p>Getting your “yes” is trivially simple:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">YES</code>: curl https://mac-hills.github.io/yes-as-a-service/yes</li>
+  <li><code class="language-plaintext highlighter-rouge">Yes</code>: curl https://mac-hills.github.io/yes-as-a-service/notnotyes</li>
+  <li><code class="language-plaintext highlighter-rouge">yes</code>: curl https://mac-hills.github.io/yes-as-a-service/!no</li>
+</ul>
+
+<p>When you need <strong><a href="https://github.com/mac-hills/yes-as-a-service">YES</a></strong> to be <code class="language-plaintext highlighter-rouge">true</code> we provide a <a href="https://mac-hills.github.io/yes-as-a-service/yes.json">JSON endpoint</a> for you - <em>returns { “yes”: true }</em></p>
+
+<h3 id="real-world-applications">Real-World Applications</h3>
+
+<p>You might be wondering: “But what would I use this for?” The possibilities are endless:</p>
+<ul>
+  <li><strong>Default Optimism</strong>: Start with “yes” as your system’s default response, then apply your business logic.</li>
+  <li><strong>Psychological Boosting</strong>: Random affirmations for your development team after successful test runs.</li>
+  <li><strong>Decision Making</strong>: When in doubt, call the YaaS API.</li>
+  <li><strong>Monitoring</strong>: “Is the system still able to make external API calls?” – YaaS will tell you.</li>
+  <li><strong>Celebration</strong>: Mark build successes with a programmatic “yes!”</li>
+</ul>
+
+<hr />
+
+<h2 id="final-thoughts">Final Thoughts</h2>
+
+<p>In a world where complexity often reigns supreme, Yes-as-a-Service stands as a testament to the power of simplicity. It reminds us that sometimes, the most powerful answer is also the most straightforward.</p>
+
+<p>So the next time you need affirmation, whether for your code, your ideas, or just your day – YaaS has got your back.</p>
+
+<p>Because sometimes, all you need is “<a href="https://github.com/mac-hills/yes-as-a-service">YES</a>”!</p>
+
+<p>Github - <a href="https://github.com/mac-hills/yes-as-a-service">Yes-as-a-service</a></p>
+
+<p><strong>Just say <a href="https://github.com/mac-hills/yes-as-a-service">YES</a> — powered by !NO</strong></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Yes-as-a-Service - Because Sometimes You Just Need A Yes!]]></summary></entry><entry><title type="html">My Journey to Microsoft Azure Fundamentals Certification: Opening Doors to Cloud Computing</title><link href="http://localhost:4000/portfolio/certifications/cloud-computing/professional-development/2025/04/23/certification.html" rel="alternate" type="text/html" title="My Journey to Microsoft Azure Fundamentals Certification: Opening Doors to Cloud Computing" /><published>2025-04-23T20:51:05+02:00</published><updated>2025-04-23T20:51:05+02:00</updated><id>http://localhost:4000/portfolio/certifications/cloud-computing/professional-development/2025/04/23/certification</id><content type="html" xml:base="http://localhost:4000/portfolio/certifications/cloud-computing/professional-development/2025/04/23/certification.html"><![CDATA[<p><img src="/portfolio/assets/images/certificate.png" alt="certificate.png" /></p>
 
 <h2 id="achieving-microsoft-azure-fundamentals">Achieving Microsoft Azure Fundamentals</h2>
 
@@ -224,15 +319,15 @@ Feel free to check it out and let me know what you think!</p>
 
 <p>If you’re interested in learning more about how I built this site or want to try it yourself, feel free to explore the GitHub repository or reach out to me directly!</p>
 
-<p><em>post created with prose.io</em></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Building a Cost-Free, Automated Portfolio Website with GitHub Pages, Jekyll, and Prose.io]]></summary></entry><entry><title type="html">Welcome to my portfolio!</title><link href="http://localhost:4000/portfolio/jekyll/update/2025/01/22/welcome-to-my-portfolio.html" rel="alternate" type="text/html" title="Welcome to my portfolio!" /><published>2025-01-22T13:12:35+01:00</published><updated>2025-01-22T13:12:35+01:00</updated><id>http://localhost:4000/portfolio/jekyll/update/2025/01/22/welcome-to-my-portfolio</id><content type="html" xml:base="http://localhost:4000/portfolio/jekyll/update/2025/01/22/welcome-to-my-portfolio.html"><![CDATA[<p>Hello and welcome to my personal portfolio! I’m thrilled that you’ve decided to stop by and explore the work I’ve been passionate about. This portfolio is not just a showcase of my projects and skills but also a reflection of my journey into the world of IT and software development.</p>
+<p><em>post created with prose.io</em></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Building a Cost-Free, Automated Portfolio Website with GitHub Pages, Jekyll, and Prose.io]]></summary></entry><entry><title type="html">Welcome to my portfolio!</title><link href="http://localhost:4000/portfolio/jekyll/update/2025/01/22/welcome-to-my-portfolio.html" rel="alternate" type="text/html" title="Welcome to my portfolio!" /><published>2025-01-22T13:12:35+01:00</published><updated>2025-01-22T13:12:35+01:00</updated><id>http://localhost:4000/portfolio/jekyll/update/2025/01/22/welcome-to-my-portfolio</id><content type="html" xml:base="http://localhost:4000/portfolio/jekyll/update/2025/01/22/welcome-to-my-portfolio.html"><![CDATA[<p>Hello and welcome to my personal portfolio!</p>
+
+<p>I’m thrilled that you’ve decided to stop by and explore the work I’ve been passionate about. This portfolio is not just a showcase of my projects and skills but also a reflection of my journey into the world of IT and software development.</p>
 
 <p>As someone transitioning from a career in education administration to the dynamic field of software development, I’ve discovered the joy of creating solutions that make life easier and more efficient. Every project I work on is an opportunity to learn something new, solve a problem, and challenge myself to grow.</p>
 
 <p><strong>Here, you’ll find:</strong></p>
 
-<p><strong><em>My Projects:</em></strong> A collection of the software and web development projects I’ve completed so far, showcasing my technical skills and creativity.</p>
-
-<p><strong><em>Skills and Tools:</em></strong> The programming languages, frameworks, and tools I’ve mastered—and the ones I’m currently learning.</p>
+<p><strong><em>My Projects:</em></strong> A selection from the software and web development projects I’ve completed so far, showcasing my technical skills and creativity.</p>
 
 <p><strong><em>Blog Posts:</em></strong> Insights and reflections on my journey as a developer, the challenges I’ve faced, and the lessons I’ve learned along the way.</p>
 
@@ -240,4 +335,4 @@ Feel free to check it out and let me know what you think!</p>
 
 <p>Thank you for visiting my portfolio. Let’s build something great together!</p>
 
-<p>Warm regards,Wannes Machiels</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Hello and welcome to my personal portfolio! I’m thrilled that you’ve decided to stop by and explore the work I’ve been passionate about. This portfolio is not just a showcase of my projects and skills but also a reflection of my journey into the world of IT and software development.]]></summary></entry></feed>
+<p>Warm regards,Wannes Machiels</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Hello and welcome to my personal portfolio!]]></summary></entry></feed>
