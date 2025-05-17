@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="620bb542-5141-4498-a779-0a8f58797f64" name="Changes" comment="Updated about me">
-      <change afterPath="$PROJECT_DIR$/assets/images/bg-vert.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/qr-w_scan-me.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/scanme.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="620bb542-5141-4498-a779-0a8f58797f64" name="Changes" comment="Updated layout">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2025-04-20-my-fibonacci-clock-project.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2025-04-20-my-fibonacci-clock-project.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/images/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/images/favicon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/_site/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/favicon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/_site/favicon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/about.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +24,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JavaScript Debug.portfolio.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/apps/portfolio/_site/assets/images",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.portfolio.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/apps/portfolio/_site/assets/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\apps\portfolio\_site\assets\images" />
@@ -177,8 +162,8 @@
     <MESSAGE value="Updated certification.md title - was to long" />
     <MESSAGE value="Updated yes-as-a-service post to have correct head section" />
     <MESSAGE value="Updated Fibonacci-clock project to include url to the github repo" />
-    <MESSAGE value="Updated layout" />
     <MESSAGE value="Updated about me" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated about me" />
+    <MESSAGE value="Updated layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated layout" />
   </component>
 </project>
