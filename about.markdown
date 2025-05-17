@@ -44,11 +44,6 @@ while (alive) {
 
 I'm always open to interesting conversations and collaborations. Reach out if you want to discuss technology, potential projects, or just share ideas!
 
-- [https://github.com/mac-hills/](https://github.com/mac-hills/)
-- 📧 [Send me an email](mailto:wmach73@gmail.com)
-
-> *"The best way to predict the future is to invent it." – Alan Kay*
-
 Add me to your contacts and let's connect!
 
-![scanme.png](assets/images/scanme.png)
+ <img src="assets/images/qr-w_scan-me.svg" style="width: 10em; margin-bottom: 2em; display: block; margin-left: auto; margin-right: auto;">
