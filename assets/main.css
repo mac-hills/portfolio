@@ -8,6 +8,11 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
+img[src*="qr-w_scan-me.svg"] {
+  width: 20em;
+  display: block;
+  margin: 2em auto;
+}
 /**
  * Basic styling
  */

@@ -25,10 +25,10 @@ I'm in the midst of an exciting career transformation from education administrat
 
 My approach combines analytical thinking with creative problem-solving:
 
-- 🔍 **Curiosity** – I'm always asking *"What if?"*
-- 🌍 **Impact** – I build solutions that make a difference
-- 📈 **Growth** – Every challenge is an opportunity to learn
-- 🤝 **Collaboration** – The best ideas emerge when we work together
+- **Curiosity** – I'm always asking *"What if?"*
+- **Impact** – I build solutions that make a difference
+- **Growth** – Every challenge is an opportunity to learn
+- **Collaboration** – The best ideas emerge when we work together
 
 ```javascript
 while (alive) {
@@ -46,4 +46,5 @@ I'm always open to interesting conversations and collaborations. Reach out if yo
 
 Add me to your contacts and let's connect!
 
- <img src="/assets/images/qr-w_scan-me.svg" style="width: 10em; margin-bottom: 2em; display: block; margin-left: auto; margin-right: auto;">
+
+![QR Code](/assets/images/qr-w_scan-me.svg)
