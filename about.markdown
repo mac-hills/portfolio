@@ -46,4 +46,4 @@ I'm always open to interesting conversations and collaborations. Reach out if yo
 
 Add me to your contacts and let's connect!
 
- <img src="assets/images/qr-w_scan-me.svg" style="width: 10em; margin-bottom: 2em; display: block; margin-left: auto; margin-right: auto;">
+ <img src="../../assets/images/qr-w_scan-me.svg" style="width: 10em; margin-bottom: 2em; display: block; margin-left: auto; margin-right: auto;">

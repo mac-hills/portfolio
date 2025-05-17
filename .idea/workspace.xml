@@ -6,16 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="620bb542-5141-4498-a779-0a8f58797f64" name="Changes" comment="Updated index.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/certifications/cloud-computing/professional-development/2025/04/23/certification.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/certifications/cloud-computing/professional-development/2025/04/23/certification.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/jekyll/update/2025/01/22/welcome-to-my-portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/jekyll/update/2025/01/22/welcome-to-my-portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/jekyll/update/2025/01/23/About-the-portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/jekyll/update/2025/01/23/About-the-portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/jekyll/update/2025/04/20/my-fibonacci-clock-project.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/jekyll/update/2025/04/20/my-fibonacci-clock-project.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/yes-as-a-service/2025/05/03/yes-as-a-service.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/yes-as-a-service/2025/05/03/yes-as-a-service.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/about.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -178,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747482301148</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updated index.html">
+      <option name="closed" value="true" />
+      <created>1747483656740</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1747483656740</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
