@@ -4,15 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="620bb542-5141-4498-a779-0a8f58797f64" name="Changes" comment="Updated layout">
+    <list default="true" id="620bb542-5141-4498-a779-0a8f58797f64" name="Changes" comment="Updated about me">
+      <change afterPath="$PROJECT_DIR$/assets/images/bg-vert.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/qr-w_scan-me.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/scanme.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2025-04-20-my-fibonacci-clock-project.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2025-04-20-my-fibonacci-clock-project.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/images/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/images/favicon.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/jekyll/update/2025/01/22/welcome-to-my-portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/jekyll/update/2025/01/22/welcome-to-my-portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/_site/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/favicon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/_site/favicon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/about.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,12 +31,57 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2wafNpwWeqDWVbm1OI6o4YAChce" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JavaScript Debug.portfolio.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "last_opened_file_path": "C:/apps/portfolio/_site/assets/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\apps\portfolio\_site\assets\images" />
+      <recent name="C:\apps\portfolio\assets\images" />
+      <recent name="C:\apps\portfolio" />
+      <recent name="C:\apps\portfolio\_site" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\apps\portfolio\assets\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="portfolio" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://127.0.0.1:4000/portfolio/">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.portfolio" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="Updated layout">
       <option name="closed" value="true" />
@@ -45,11 +99,86 @@
       <option name="project" value="LOCAL" />
       <updated>1746276333600</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="620bb542-5141-4498-a779-0a8f58797f64" name="Changes" comment="Updated layout" />
+      <created>1746284567808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746284567808</updated>
+      <workItem from="1746284568949" duration="3114000" />
+      <workItem from="1746347280423" duration="1106000" />
+      <workItem from="1746352331978" duration="639000" />
+      <workItem from="1747469416469" duration="194000" />
+      <workItem from="1747473142668" duration="2188000" />
+    </task>
+    <task id="LOCAL-00003" summary="Updated certification.md title - was to long">
+      <option name="closed" value="true" />
+      <created>1746284712889</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746284712889</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated certification.md title - was to long">
+      <option name="closed" value="true" />
+      <created>1746284819868</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746284819868</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated yes-as-a-service post to have correct head section">
+      <option name="closed" value="true" />
+      <created>1746284983193</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746284983193</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updated yes-as-a-service post to have correct head section">
+      <option name="closed" value="true" />
+      <created>1746285059855</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746285059855</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated Fibonacci-clock project to include url to the github repo">
+      <option name="closed" value="true" />
+      <created>1746285234580</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1746285234580</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated layout">
+      <option name="closed" value="true" />
+      <created>1746286104457</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1746286104457</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated about me">
+      <option name="closed" value="true" />
+      <created>1746287235666</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1746287235666</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated certification.md title - was to long" />
+    <MESSAGE value="Updated yes-as-a-service post to have correct head section" />
+    <MESSAGE value="Updated Fibonacci-clock project to include url to the github repo" />
     <MESSAGE value="Updated layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated layout" />
+    <MESSAGE value="Updated about me" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated about me" />
   </component>
 </project>

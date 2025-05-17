@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-# 👨‍💻 Wannes Machiels
+# Wannes Machiels
 
 > *"Building tomorrow's solutions with today's code."*
 
 ---
 
-## 🚀 My Journey
+## My Journey
 
 I'm in the midst of an exciting career transformation from education administration to software development. This isn't just a career change—it's the alignment of my work with my deepest passions.
 
@@ -19,7 +19,7 @@ I'm in the midst of an exciting career transformation from education administrat
 
 ---
 
-## 💡 What Drives Me
+## What Drives Me
 
 > I believe technology should be both **beautiful** and **functional**.
 
@@ -40,7 +40,7 @@ while (alive) {
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always open to interesting conversations and collaborations. Reach out if you want to discuss technology, potential projects, or just share ideas!
 
@@ -48,3 +48,7 @@ I'm always open to interesting conversations and collaborations. Reach out if yo
 - 📧 [Send me an email](mailto:wmach73@gmail.com)
 
 > *"The best way to predict the future is to invent it." – Alan Kay*
+
+Add me to your contacts and let's connect!
+
+![scanme.png](assets/images/scanme.png)
