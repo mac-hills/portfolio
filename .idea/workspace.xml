@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="620bb542-5141-4498-a779-0a8f58797f64" name="Changes" comment="Updated layout">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/images/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/favicon.ico" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
