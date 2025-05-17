@@ -47,4 +47,4 @@ I'm always open to interesting conversations and collaborations. Reach out if yo
 Add me to your contacts and let's connect!
 
 
-![QR Code](/assets/images/qr-w_scan-me.svg)
+[![QR Code](/assets/images/qr-w_scan-me.svg)](https://mac-hills.github.io/contact/)
