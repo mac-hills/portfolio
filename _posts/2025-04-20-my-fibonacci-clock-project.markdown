@@ -27,5 +27,5 @@ This project was built using Angular, a powerful framework for building dynamic 
 
 Once completed, I deployed the project to GitHub Pages, a free hosting service that allows me to share the clock with others easily. GitHub Pages serves the project directly from my GitHub repository, making it a simple and efficient way to host static websites.
 
-Feel free to explore the source code on my GitHub repository to see how it all comes together!
+Feel free to explore the source code on my [GitHub repository](https://github.com/mac-hills/fibonacci-clock) to see how it all comes together!
 
