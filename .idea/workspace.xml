@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="620bb542-5141-4498-a779-0a8f58797f64" name="Changes" comment="Updated layout">
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/images/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/favicon.ico" afterDir="false" />
+    <list default="true" id="620bb542-5141-4498-a779-0a8f58797f64" name="Changes" comment="Updated favicon.ico">
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746287235666</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Updated favicon.ico">
+      <option name="closed" value="true" />
+      <created>1747482198649</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1747482198649</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +171,7 @@
     <MESSAGE value="Updated Fibonacci-clock project to include url to the github repo" />
     <MESSAGE value="Updated about me" />
     <MESSAGE value="Updated layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated layout" />
+    <MESSAGE value="Updated favicon.ico" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated favicon.ico" />
   </component>
 </project>
