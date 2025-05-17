@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="hhtps://mac-hills.github.io/portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="hhtps://mac-hills.github.io/portfolio/" rel="alternate" type="text/html" /><updated>2025-01-25T17:25:05+01:00</updated><id>hhtps://mac-hills.github.io/portfolio/feed.xml</id><title type="html">Bringing Ideas to Life Through Code</title><subtitle>Welcome to my personal portfolio! Here, you can explore more about my work, projects, and the skills I’ve developed as a web developer. Whether you&apos;re looking for collaboration, inspiration, or just curious about what I do, I&apos;m glad you visited my site!</subtitle><entry><title type="html">Fibonacci-clock project</title><link href="hhtps://mac-hills.github.io/portfolio/jekyll/update/2025/01/22/my-fibonacci-clock-project.html" rel="alternate" type="text/html" title="Fibonacci-clock project" /><published>2025-01-22T16:05:35+01:00</published><updated>2025-01-22T16:05:35+01:00</updated><id>hhtps://mac-hills.github.io/portfolio/jekyll/update/2025/01/22/my-fibonacci-clock-project</id><content type="html" xml:base="hhtps://mac-hills.github.io/portfolio/jekyll/update/2025/01/22/my-fibonacci-clock-project.html"><![CDATA[<p>Below, you’ll find the Fibonacci Clock project I created. This clock presents time using the Fibonacci sequence, offering a unique and visually captivating way to keep track of the hours, minutes, and seconds.</p>
+
+<p>Each circle on the clock represents a number in the Fibonacci sequence, with colors distinguishing between the hours, minutes, and seconds. It’s a playful yet functional design that I had a lot of fun building!</p>
+
+<p>When you click on the clock, you’ll get more details about how it works, and you can even customize the colors to your liking.
+Feel free to check it out and let me know what you think!</p>
+
+<div id="iframe-clock" style="width: 100%; height: 500px; border: 1px solid #ccc;">
+  <iframe src="https://mac-hills.github.io/fibonacci-clock/" style="width: 100%; height: 100%; border: none;" title="Embedded fibonacci clock">
+  </iframe>
+</div>
+
+<p><a href="https://mac-hills.github.io/fibonacci-clock/" target="_blank">Click here to open the Fibonacci-clock full screen in a new window</a></p>
+
+<h1 id="technical-details">Technical Details</h1>
+<p>This project was built using Angular, a powerful framework for building dynamic web applications. I utilized Angular to create a responsive and interactive Fibonacci clock that’s both functional and visually appealing.</p>
+
+<p>Once completed, I deployed the project to GitHub Pages, a free hosting service that allows me to share the clock with others easily. GitHub Pages serves the project directly from my GitHub repository, making it a simple and efficient way to host static websites.</p>
+
+<p>Feel free to explore the source code on my GitHub repository to see how it all comes together!</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Below, you’ll find the Fibonacci Clock project I created. This clock presents time using the Fibonacci sequence, offering a unique and visually captivating way to keep track of the hours, minutes, and seconds.]]></summary></entry><entry><title type="html">Welcome to my portfolio!</title><link href="hhtps://mac-hills.github.io/portfolio/jekyll/update/2025/01/22/welcome-to-my-portfolio.html" rel="alternate" type="text/html" title="Welcome to my portfolio!" /><published>2025-01-22T13:12:35+01:00</published><updated>2025-01-22T13:12:35+01:00</updated><id>hhtps://mac-hills.github.io/portfolio/jekyll/update/2025/01/22/welcome-to-my-portfolio</id><content type="html" xml:base="hhtps://mac-hills.github.io/portfolio/jekyll/update/2025/01/22/welcome-to-my-portfolio.html"><![CDATA[<p>Hello and welcome to my personal portfolio! I’m thrilled that you’ve decided to stop by and explore the work I’ve been passionate about. This portfolio is not just a showcase of my projects and skills but also a reflection of my journey into the world of IT and software development.</p>
+
+<p>As someone transitioning from a career in education administration to the dynamic field of software development, I’ve discovered the joy of creating solutions that make life easier and more efficient. Every project I work on is an opportunity to learn something new, solve a problem, and challenge myself to grow.</p>
+
+<p><strong>Here, you’ll find:</strong></p>
+
+<p><strong><em>My Projects:</em></strong> A collection of the software and web development projects I’ve completed so far, showcasing my technical skills and creativity.</p>
+
+<p><strong><em>Skills and Tools:</em></strong> The programming languages, frameworks, and tools I’ve mastered—and the ones I’m currently learning.</p>
+
+<p><strong><em>Blog Posts:</em></strong> Insights and reflections on my journey as a developer, the challenges I’ve faced, and the lessons I’ve learned along the way.</p>
+
+<p>This site is more than just a portfolio—it’s a space for collaboration and connection. If you’re a fellow developer, a potential employer, or just someone curious about my work, I’d love to hear from you. Don’t hesitate to reach out or leave a comment on any project that catches your eye.</p>
+
+<p>Thank you for visiting my portfolio. Let’s build something great together!</p>
+
+<p>Warm regards,Wannes Machiels</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Hello and welcome to my personal portfolio! I’m thrilled that you’ve decided to stop by and explore the work I’ve been passionate about. This portfolio is not just a showcase of my projects and skills but also a reflection of my journey into the world of IT and software development.]]></summary></entry></feed>
