@@ -3,13 +3,50 @@ layout: default
 title: About
 permalink: /about/
 ---
-# About me
 
-I’m Wannes Machiels, a driven professional currently making a meaningful career transition into the IT sector. With a background in education as an administrative officer and secretary, I bring a unique blend of technical knowledge and strong soft skills to my new journey as a software developer.
+# Wannes Machiels
 
-I’m passionate about developing innovative software solutions that have a real, positive impact on people’s lives. This drive, combined with my natural curiosity and can-do attitude, forms the core of who I am as a professional. I’m always eager to learn and grow, seeking out challenges that help me refine my skills and contribute to projects that matter.
+> *"Building tomorrow's solutions with today's code."*
 
-I believe that technology, when used effectively, has the power to transform communities and improve daily living. Whether it's building a seamless user experience or solving complex problems with code, my focus is on creating solutions that make a difference.
+---
 
-As I continue to expand my knowledge and experience in the tech world, I’m excited to collaborate with like-minded individuals and teams to build products that make a meaningful impact.
+## My Journey
 
+I'm in the midst of an exciting career transformation from education administration to software development. This isn't just a career change—it's the alignment of my work with my deepest passions.
+
+**Previous life:** Administrative officer and secretary in education  
+**Current mission:** Creating software that solves real problems
+
+---
+
+## What Drives Me
+
+> I believe technology should be both **beautiful** and **functional**.
+
+My approach combines analytical thinking with creative problem-solving:
+
+- **Curiosity** – I'm always asking *"What if?"*
+- **Impact** – I build solutions that make a difference
+- **Growth** – Every challenge is an opportunity to learn
+- **Collaboration** – The best ideas emerge when we work together
+
+```javascript
+while (alive) {
+  learnNewSkills();
+  buildAmazingThings();
+  makeAnImpact();
+}
+```
+
+---
+
+## Let's Connect
+
+I'm always open to interesting conversations and collaborations. Reach out if you want to discuss technology, potential projects, or just share ideas!
+
+- [https://github.com/mac-hills/](https://github.com/mac-hills/)
+- 📧 [Send me an email](mailto:wmach73@gmail.com)
+
+> *"The best way to predict the future is to invent it." – Alan Kay*
+
+Add me to your contacts and let's connect!

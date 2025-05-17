@@ -323,13 +323,13 @@ table td {
  */
 .site-footer {
   border-top: 1px solid #43ac61;
-  padding: 15px 0;
+  padding: 10px;
 }
 
 
 .footer-heading {
   font-size: 18px;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 .contact-list,
@@ -339,14 +339,18 @@ table td {
 }
 
 .footer-col-wrapper {
-  font-size: 15px;
+  font-size: 12px;
   color: #828282;
   margin-left: -15px;
 }
 
+.footer-paragraph {
+  font-size: 12px;
+}
+
 .footer-col {
   float: left;
-  margin-bottom: 15px;
+  margin-bottom: 0px;
   padding-left: 15px;
 }
 
@@ -388,7 +392,7 @@ table td {
  * Page content
  */
 .page-content {
-  padding: 30px 0;
+  padding: 10px;
   flex: 1;
 }
 
@@ -675,3 +679,6 @@ table td {
 }
 
 /*# sourceMappingURL=main.css.map */
+#iframe-clock {
+  opacity: 1 !important;
+}
